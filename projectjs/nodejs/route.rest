@@ -1,0 +1,11 @@
+GET http://localhost:8080/index
+
+###
+POST http://localhost:8080/register
+Content-Type: application/json
+
+{
+   "name":"6306021610080@fitm.kmutnb.ac.th",
+    "password": "pwd9876"
+     
+}
